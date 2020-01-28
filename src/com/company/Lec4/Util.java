@@ -1,4 +1,4 @@
-package com.company.Lec3;
+package com.company.Lec4;
 
 public class Util {
 
@@ -45,6 +45,18 @@ public class Util {
             }
         }
         return max;
+    }
+
+
+    public static void reverse(int ar[] ,int start, int end){
+
+        while(start<=end){
+
+            swap(ar,start,end);
+
+            start++;
+            end--;
+        }
     }
 
 

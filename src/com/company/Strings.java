@@ -24,10 +24,15 @@ public class Strings {
 //
 //        System.out.println(s1.indexOf('l',3));
 
-        occurences("hello","l");
+//        occurences("hello","l");
+//
+//        substrings("hello");
 
-        substrings("hello");
-        pallin("abc");
+        String s1= "hell";
+
+//        System.out.println(s1.subSequence(2,4));
+
+//        pallin("abc");
     }
 
     public static void occurences(String str,String pattern){

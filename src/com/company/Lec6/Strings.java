@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Lec6;
 
 import java.util.ArrayList;
 

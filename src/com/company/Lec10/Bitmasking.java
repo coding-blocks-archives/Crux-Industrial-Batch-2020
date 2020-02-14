@@ -1,5 +1,7 @@
 package com.company.Lec10;
 
+import java.util.Arrays;
+
 public class Bitmasking {
 
     public static void main(String[] args) {

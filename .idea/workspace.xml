@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b3248ba-19ca-429b-b347-d562b0bc3e3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec11/Children.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec11/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec12/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec12/OptimizedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec12/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec12/QueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec12/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec12/StackClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/NQueens.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec10/Bitmasking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec10/Bitmasking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec1/LeapYr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec1/LeapYr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec11/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec11/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec7/Recursioneg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec7/Recursioneg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec1/LeapYr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec1/LeapYr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec11/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec11/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec7/Recursioneg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec7/Recursioneg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +44,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.Lec12" />
       <recent name="com.company.Lec2" />
       <recent name="com.company.Lec1" />
     </key>
@@ -42,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/com/company/Lec4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Children">
+  <component name="RunManager" selected="Application.QueueClient">
     <configuration name="Children" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Lec11.Children" />
       <module name="CRUX_INDUSTRIAL_BATCH_2020" />
@@ -56,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LexoPermute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec9.LexoPermute" />
+    <configuration name="LeapYr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec1.LeapYr" />
       <module name="CRUX_INDUSTRIAL_BATCH_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec9.*" />
+          <option name="PATTERN" value="com.company.Lec1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec10.NQueens" />
+    <configuration name="QueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec12.QueueClient" />
       <module name="CRUX_INDUSTRIAL_BATCH_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec6.*" />
+          <option name="PATTERN" value="com.company.Lec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Revision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec9.Revision" />
+    <configuration name="Recursioneg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec7.Recursioneg" />
       <module name="CRUX_INDUSTRIAL_BATCH_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec9.*" />
+          <option name="PATTERN" value="com.company.Lec7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec8.StringRec" />
+    <configuration name="StackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec12.StackClient" />
       <module name="CRUX_INDUSTRIAL_BATCH_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec8.*" />
+          <option name="PATTERN" value="com.company.Lec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,19 +119,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringRec" />
-      <item itemvalue="Application.Revision" />
-      <item itemvalue="Application.LexoPermute" />
-      <item itemvalue="Application.NQueens" />
       <item itemvalue="Application.Children" />
+      <item itemvalue="Application.StackClient" />
+      <item itemvalue="Application.Recursioneg" />
+      <item itemvalue="Application.LeapYr" />
+      <item itemvalue="Application.QueueClient" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueClient" />
+        <item itemvalue="Application.StackClient" />
+        <item itemvalue="Application.LeapYr" />
+        <item itemvalue="Application.Recursioneg" />
         <item itemvalue="Application.Children" />
-        <item itemvalue="Application.NQueens" />
-        <item itemvalue="Application.LexoPermute" />
-        <item itemvalue="Application.Revision" />
-        <item itemvalue="Application.StringRec" />
       </list>
     </recent_temporary>
   </component>
@@ -163,35 +173,35 @@
       <screen x="67" y="27" width="1213" height="693" />
     </state>
     <state x="213" y="27" width="910" height="693" key="CommitChangelistDialog2/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1580195961626" />
-    <state width="1167" height="512" key="GridCell.Tab.0.bottom" timestamp="1581666331686">
+    <state width="1167" height="512" key="GridCell.Tab.0.bottom" timestamp="1582184823780">
       <screen x="67" y="27" width="1213" height="693" />
     </state>
     <state width="1167" height="218" key="GridCell.Tab.0.bottom/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581064114402" />
-    <state width="1167" height="512" key="GridCell.Tab.0.bottom/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581666331686" />
+    <state width="1167" height="512" key="GridCell.Tab.0.bottom/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1582184823780" />
     <state width="1167" height="456" key="GridCell.Tab.0.bottom/67.27.1213.693@67.27.1213.693" timestamp="1579766774861" />
     <state width="1253" height="154" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581053751974" />
     <state width="1167" height="329" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579776066798" />
-    <state width="1167" height="512" key="GridCell.Tab.0.center" timestamp="1581666331686">
+    <state width="1167" height="512" key="GridCell.Tab.0.center" timestamp="1582184823779">
       <screen x="67" y="27" width="1213" height="693" />
     </state>
     <state width="1167" height="218" key="GridCell.Tab.0.center/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581064114402" />
-    <state width="1167" height="512" key="GridCell.Tab.0.center/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581666331686" />
+    <state width="1167" height="512" key="GridCell.Tab.0.center/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1582184823779" />
     <state width="1167" height="456" key="GridCell.Tab.0.center/67.27.1213.693@67.27.1213.693" timestamp="1579766774859" />
     <state width="1253" height="154" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581053751974" />
     <state width="1167" height="329" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579776066796" />
-    <state width="1167" height="512" key="GridCell.Tab.0.left" timestamp="1581666331685">
+    <state width="1167" height="512" key="GridCell.Tab.0.left" timestamp="1582184823779">
       <screen x="67" y="27" width="1213" height="693" />
     </state>
     <state width="1167" height="218" key="GridCell.Tab.0.left/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581064114401" />
-    <state width="1167" height="512" key="GridCell.Tab.0.left/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581666331685" />
+    <state width="1167" height="512" key="GridCell.Tab.0.left/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1582184823779" />
     <state width="1167" height="456" key="GridCell.Tab.0.left/67.27.1213.693@67.27.1213.693" timestamp="1579766774857" />
     <state width="1253" height="154" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581053751973" />
     <state width="1167" height="329" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579776066796" />
-    <state width="1167" height="512" key="GridCell.Tab.0.right" timestamp="1581666331686">
+    <state width="1167" height="512" key="GridCell.Tab.0.right" timestamp="1582184823779">
       <screen x="67" y="27" width="1213" height="693" />
     </state>
     <state width="1167" height="218" key="GridCell.Tab.0.right/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581064114402" />
-    <state width="1167" height="512" key="GridCell.Tab.0.right/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581666331686" />
+    <state width="1167" height="512" key="GridCell.Tab.0.right/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1582184823779" />
     <state width="1167" height="456" key="GridCell.Tab.0.right/67.27.1213.693@67.27.1213.693" timestamp="1579766774860" />
     <state width="1253" height="154" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581053751974" />
     <state width="1167" height="329" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579776066797" />
@@ -231,6 +241,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1580363685748" />
+    <state x="67" y="27" width="1203" height="693" key="new project wizard" timestamp="1581666910917">
+      <screen x="67" y="27" width="1213" height="693" />
+    </state>
+    <state x="67" y="27" width="1203" height="693" key="new project wizard/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581666910917" />
     <state x="304" y="149" key="run.anything.popup" timestamp="1579848505714">
       <screen x="67" y="27" width="1213" height="693" />
     </state>

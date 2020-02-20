@@ -6,18 +6,18 @@ public class Recursioneg {
 
         pboth(4);
 
-        fibo(4);
+//        fibo(4);
     }
 
     public static void pboth(int n){
 
-        if(n==0){
-            return;
-        }
+//        if(n==0){
+//            return;
+//        }
 
         System.out.println(n);
         pboth(n-1);
-        System.out.println(n);
+
     }
 
     public static int fact(int n){

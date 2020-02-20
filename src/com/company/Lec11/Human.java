@@ -7,7 +7,15 @@ public class Human {
    int salary;
 
    public Human(int salary){
+
        this.salary=salary;
+
+   }
+
+   public Human(Human old){
+
+       this.salary=old.salary;
+
    }
 
 //

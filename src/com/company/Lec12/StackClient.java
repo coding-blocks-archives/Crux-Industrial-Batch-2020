@@ -17,6 +17,11 @@ public class StackClient {
                 stack.pop();
             }
         }
+
+        catch(Exception e){
+            System.out.println(e);
+        }
+
         finally {
             System.out.println("bala");
             System.out.println("bhola");

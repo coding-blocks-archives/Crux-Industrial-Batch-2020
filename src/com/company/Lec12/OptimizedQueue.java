@@ -27,7 +27,7 @@ public class OptimizedQueue {
     }
 
     public boolean isEmpty(){
-        return end==0;
+        return end==front;
     }
 
     public int remove(){
@@ -36,7 +36,7 @@ public class OptimizedQueue {
             return -1;
         }
 
-        int temp= ar[0];
+        int temp= ar[front];
 //        for (int i = 1; i <end ; i++) {
 //            ar[i-1]=ar[i];
 //        }

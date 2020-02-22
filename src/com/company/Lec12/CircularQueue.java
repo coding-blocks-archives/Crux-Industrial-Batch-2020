@@ -18,7 +18,7 @@ public class CircularQueue {
 
     public boolean isFull()
     {
-        return end==ar.length;
+        return size==ar.length;
 
     }
 
@@ -28,10 +28,12 @@ public class CircularQueue {
         }
 
         ar[end++]=element;
+        end= end %ar.length;
+        size++;
     }
 
     public boolean isEmpty(){
-        return end==0;
+        return size==0;
     }
 
     public int remove(){
@@ -40,19 +42,21 @@ public class CircularQueue {
             return -1;
         }
 
-        int temp= ar[0];
+        int temp= ar[front];
 //        for (int i = 1; i <end ; i++) {
 //            ar[i-1]=ar[i];
 //        }
 
         front++;
+        front=front% ar.length;
+        size--;
         return temp;
     }
 
     public void display() {
 
-        for (int i = front; i < end; i++) {
-            System.out.print(ar[i] + " ");
+        for (int i = 0; i < size; i++) {
+            System.out.print(ar[(front+i)%ar.length] + " ");
         }
         System.out.println();
     }

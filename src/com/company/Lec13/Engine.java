@@ -2,7 +2,7 @@ package com.company.Lec13;
 
 public abstract class Engine {
 
-    public int speed =3;
+    protected int speed =3;
 
     public void start(){
         System.out.println("I am starting");

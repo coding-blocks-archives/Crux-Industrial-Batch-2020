@@ -4,7 +4,9 @@ public class Client {
 
     public static void main(String[] args) {
 
-        Engine engine =new PetrolEngine();
+       PetrolEngine engine =new PetrolEngine();
+
+
         System.out.println(engine.speed);
 //        PetrolEngine engine = new PetrolEngine();
 //        engine.start();
@@ -26,5 +28,7 @@ public class Client {
 
         System.out.println(sum);
     }
+
+
 
 }

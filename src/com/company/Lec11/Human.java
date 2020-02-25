@@ -2,9 +2,9 @@ package com.company.Lec11;
 
 public class Human {
 
-   String name;
+   private String name;
 
-   int salary;
+   protected int salary;
 
    public Human(int salary){
 

@@ -17,7 +17,7 @@ public class Arraylisteg {
         System.out.println(list);
 
         System.out.println(list.get(0));
-        System.out.println(list.set(0,2));
+        System.out.println(list.set(2,2));
         System.out.println(list);
 //        System.out.print(list.cl);
     }

@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b3248ba-19ca-429b-b347-d562b0bc3e3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Assignments/Assignment 1 - Problem Solving-1(1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Assignments/Assignment_2__Getting_Started (1)(1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Assignments/Assignment_3__Functions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Assignments/Assignment_4__Arrays.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Assignments/Assignment_5__Strings.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Assignments/Assignment_6__Recursion.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Assignments/assignment_7__recursion__1_.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Assignments/assignment_8a__recursion.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Assignments/assignment_8b__recursion__1_.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Lec17_18" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Assignments" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -37,6 +46,7 @@
       <recent name="com.company.Lec1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company/Assignments" />
       <recent name="$PROJECT_DIR$/src/com/company/Lec17_18" />
       <recent name="$PROJECT_DIR$/src/com/company/Lec17&amp;Lec18" />
       <recent name="$PROJECT_DIR$/src/com/company/Lec14" />

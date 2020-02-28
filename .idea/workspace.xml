@@ -2,25 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b3248ba-19ca-429b-b347-d562b0bc3e3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec14/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec14/CircularQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec14/DynamicQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec14/DynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec14/LinkedClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec14/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec14/ListClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec14/QueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec14/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec16/QueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec16/StackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec17_18/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec17_18/ListClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec11/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec11/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec13/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec13/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec13/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec13/Engine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec13/PetrolEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec13/PetrolEngine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec4/Arraylisteg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec4/Arraylisteg.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec11/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec11/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec13/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec13/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec13/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec13/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Arraylisteg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Arraylisteg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec11/Children.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec11/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec13/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec13/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec13/PetrolEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/CircularQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/DynamicQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/DynamicStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/ListClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/QueueClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/QueueClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/StackClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec14/StackClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec11/Children.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec13/Children.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec11/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec13/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec12/CircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec16/CircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec12/OptimizedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec14/OptimizedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec12/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec14/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec12/QueueClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec14/QueueClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec12/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec16/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec12/StackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec14/StackClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec12/StackCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec14/StackCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec13/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec15/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec13/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec15/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec13/PetrolEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec15/PetrolEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec14/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec16/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec14/CircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec14/CircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec14/DynamicQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec16/DynamicQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec14/DynamicStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec16/DynamicStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec14/LinkedClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec16/LinkedClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec14/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec16/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec14/ListClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec16/ListClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec14/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec14/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +64,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Lec14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Lec17_18" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -55,11 +74,13 @@
       <recent name="com.company.Lec1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company/Lec17_18" />
+      <recent name="$PROJECT_DIR$/src/com/company/Lec17&amp;Lec18" />
       <recent name="$PROJECT_DIR$/src/com/company/Lec14" />
       <recent name="$PROJECT_DIR$/src/com/company/Lec4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedClient">
+  <component name="RunManager" selected="Application.ListClient (1)">
     <configuration name="Arraylisteg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Lec4.Arraylisteg" />
       <module name="CRUX_INDUSTRIAL_BATCH_2020" />
@@ -74,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="LinkedClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec14.LinkedClient" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec16.LinkedClient" />
       <module name="CRUX_INDUSTRIAL_BATCH_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec14.*" />
+          <option name="PATTERN" value="com.company.Lec16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec14.ListClient" />
+    <configuration name="ListClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec17_18.ListClient" />
       <module name="CRUX_INDUSTRIAL_BATCH_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec14.*" />
+          <option name="PATTERN" value="com.company.Lec17_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="QueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec14.QueueClient" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec16.QueueClient" />
       <module name="CRUX_INDUSTRIAL_BATCH_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec14.*" />
+          <option name="PATTERN" value="com.company.Lec16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec14.StackClient" />
+    <configuration name="StackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec16.StackClient" />
       <module name="CRUX_INDUSTRIAL_BATCH_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec14.*" />
+          <option name="PATTERN" value="com.company.Lec16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,19 +147,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ListClient" />
       <item itemvalue="Application.StackClient (1)" />
       <item itemvalue="Application.Arraylisteg" />
       <item itemvalue="Application.QueueClient" />
       <item itemvalue="Application.LinkedClient" />
+      <item itemvalue="Application.ListClient (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListClient (1)" />
         <item itemvalue="Application.LinkedClient" />
         <item itemvalue="Application.QueueClient" />
         <item itemvalue="Application.Arraylisteg" />
         <item itemvalue="Application.StackClient (1)" />
-        <item itemvalue="Application.ListClient" />
       </list>
     </recent_temporary>
   </component>
@@ -190,37 +211,37 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582525484617" />
-    <state width="1167" height="299" key="GridCell.Tab.0.bottom" timestamp="1582618097370">
-      <screen x="67" y="27" width="1213" height="693" />
+    <state width="1253" height="326" key="GridCell.Tab.0.bottom" timestamp="1582913775945">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1167" height="299" key="GridCell.Tab.0.bottom/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618097370" />
+    <state width="1167" height="299" key="GridCell.Tab.0.bottom/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618132885" />
     <state width="1167" height="512" key="GridCell.Tab.0.bottom/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1582184823780" />
     <state width="1234" height="344" key="GridCell.Tab.0.bottom/67.27.1213.693@67.27.1213.693" timestamp="1582613468083" />
-    <state width="1253" height="154" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581053751974" />
+    <state width="1253" height="326" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582913775945" />
     <state width="1167" height="329" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579776066798" />
-    <state width="1167" height="299" key="GridCell.Tab.0.center" timestamp="1582618097369">
-      <screen x="67" y="27" width="1213" height="693" />
+    <state width="1253" height="326" key="GridCell.Tab.0.center" timestamp="1582913775945">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1167" height="299" key="GridCell.Tab.0.center/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618097369" />
+    <state width="1167" height="299" key="GridCell.Tab.0.center/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618132884" />
     <state width="1167" height="512" key="GridCell.Tab.0.center/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1582184823779" />
     <state width="1234" height="344" key="GridCell.Tab.0.center/67.27.1213.693@67.27.1213.693" timestamp="1582613468081" />
-    <state width="1253" height="154" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581053751974" />
+    <state width="1253" height="326" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582913775945" />
     <state width="1167" height="329" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579776066796" />
-    <state width="1167" height="299" key="GridCell.Tab.0.left" timestamp="1582618097369">
-      <screen x="67" y="27" width="1213" height="693" />
+    <state width="1253" height="326" key="GridCell.Tab.0.left" timestamp="1582913775944">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1167" height="299" key="GridCell.Tab.0.left/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618097369" />
+    <state width="1167" height="299" key="GridCell.Tab.0.left/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618132884" />
     <state width="1167" height="512" key="GridCell.Tab.0.left/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1582184823779" />
     <state width="1234" height="344" key="GridCell.Tab.0.left/67.27.1213.693@67.27.1213.693" timestamp="1582613468080" />
-    <state width="1253" height="154" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581053751973" />
+    <state width="1253" height="326" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582913775944" />
     <state width="1167" height="329" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579776066796" />
-    <state width="1167" height="299" key="GridCell.Tab.0.right" timestamp="1582618097370">
-      <screen x="67" y="27" width="1213" height="693" />
+    <state width="1253" height="326" key="GridCell.Tab.0.right" timestamp="1582913775945">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1167" height="299" key="GridCell.Tab.0.right/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618097370" />
+    <state width="1167" height="299" key="GridCell.Tab.0.right/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618132884" />
     <state width="1167" height="512" key="GridCell.Tab.0.right/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1582184823779" />
     <state width="1234" height="344" key="GridCell.Tab.0.right/67.27.1213.693@67.27.1213.693" timestamp="1582613468082" />
-    <state width="1253" height="154" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581053751974" />
+    <state width="1253" height="326" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582913775945" />
     <state width="1167" height="329" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579776066797" />
     <state width="1234" height="251" key="GridCell.Tab.1.bottom" timestamp="1582264547743">
       <screen x="67" y="27" width="1213" height="693" />
@@ -321,12 +342,12 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Lec12/QueueClient.java</url>
+          <url>file://$PROJECT_DIR$/src/com/company/Lec14/QueueClient.java</url>
           <line>8</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Lec12/QueueClient.java</url>
+          <url>file://$PROJECT_DIR$/src/com/company/Lec14/QueueClient.java</url>
           <line>7</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>

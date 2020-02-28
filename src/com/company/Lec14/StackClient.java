@@ -1,28 +1,33 @@
 package com.company.Lec14;
 
-import com.company.Lec12.Stack;
-
 public class StackClient {
 
     public static void main(String[] args) throws Exception {
 
 
-        DynamicStack stack= new DynamicStack();
+        Stack stack= new Stack();
 
 
-        for (int i = 0; i <=150 ; i++) {
+        for (int i = 0; i <=15 ; i++) {
             stack.push(i);
         }
 
         try {
-            for (int i = 0; i <= 150; i++) {
-                System.out.println(stack.pop());
+            for (int i = 0; i <= 15; i++) {
+                stack.pop();
             }
         }
 
         catch(Exception e){
             System.out.println(e);
         }
+
+        finally {
+            System.out.println("bala");
+            System.out.println("bhola");
+        }
+
+
     }
 
 

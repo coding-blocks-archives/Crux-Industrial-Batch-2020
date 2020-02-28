@@ -1,12 +1,12 @@
-package com.company.Lec14;
+package com.company.Lec16;
 
 public class Stack {
 
-    private int DEFAULT_SIZE=10;
+    protected int DEFAULT_SIZE=10;
 
-    private int[] ar;
+    protected int[] ar;
 
-    private int top;
+    protected int top;
 
     public Stack(){
         this.ar= new int[DEFAULT_SIZE];

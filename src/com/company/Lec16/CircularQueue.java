@@ -1,13 +1,13 @@
-package com.company.Lec14;
+package com.company.Lec16;
 
 public class CircularQueue {
 
-    private int DEFAULT_SIZE=10;
+    protected int DEFAULT_SIZE=10;
 
-    private int end;
-    private int[] ar;
-    private int front;
-    private int size;
+    protected int end;
+    protected int[] ar;
+    protected int front;
+    protected int size;
 
     public CircularQueue(){
         this.ar=new int[DEFAULT_SIZE];

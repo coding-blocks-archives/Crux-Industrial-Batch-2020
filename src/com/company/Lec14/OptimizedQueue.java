@@ -1,25 +1,21 @@
 package com.company.Lec14;
 
-public class CircularQueue {
+public class OptimizedQueue {
 
     private int DEFAULT_SIZE=10;
 
     private int end;
     private int[] ar;
     private int front;
-    private int size;
 
-    public CircularQueue(){
+    public OptimizedQueue(){
         this.ar=new int[DEFAULT_SIZE];
         this.end=0;
         this.front=0;
-        this.size=0;
     }
 
-    public boolean isFull()
-    {
-        return size==ar.length;
-
+    public boolean isFull(){
+        return end==ar.length;
     }
 
     public void insert(int element){
@@ -28,12 +24,10 @@ public class CircularQueue {
         }
 
         ar[end++]=element;
-        end= end %ar.length;
-        size++;
     }
 
     public boolean isEmpty(){
-        return size==0;
+        return end==front;
     }
 
     public int remove(){
@@ -48,15 +42,13 @@ public class CircularQueue {
 //        }
 
         front++;
-        front=front% ar.length;
-        size--;
         return temp;
     }
 
     public void display() {
 
-        for (int i = 0; i < size; i++) {
-            System.out.print(ar[(front+i)%ar.length] + " ");
+        for (int i = front; i < end; i++) {
+            System.out.print(ar[i] + " ");
         }
         System.out.println();
     }

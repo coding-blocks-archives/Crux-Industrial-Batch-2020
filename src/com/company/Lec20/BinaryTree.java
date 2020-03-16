@@ -88,6 +88,20 @@ public class BinaryTree {
         return find(node.left,target) || find(node.right,target);
     }
 
+    private void mirror(Node node){
+
+        if(node==null){
+            return;
+        }
+
+        Node temp= node.left;
+        node.left=node.right;
+        node.right=temp;
+
+        mirror(node.left);
+        mirror(node.right);
+    }
+
 
     public class Node{
 

@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b3248ba-19ca-429b-b347-d562b0bc3e3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec21/BSTclient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec21/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec22/BSTclient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec22/BalancedBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec22/BinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec20/BinaryTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec20/BinaryTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec20/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec20/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec20/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec20/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec22/BSTclient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec22/BSTclient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec22/BalancedBST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec22/BalancedBST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec22/BalancedBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUX_INDUSTRIAL_BATCH_2020/com/company/Lec22/BalancedBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec22/BSTclient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec22/BSTclient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec22/BalancedBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec22/BalancedBST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,10 +191,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582525484617" />
-    <state width="1400" height="244" key="GridCell.Tab.0.bottom" timestamp="1584358576524">
+    <state width="1400" height="244" key="GridCell.Tab.0.bottom" timestamp="1584433027300">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584358576524" />
+    <state width="1400" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584433027300" />
     <state width="1400" height="205" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584090651949" />
     <state width="1400" height="255" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1584343431590" />
     <state width="1167" height="299" key="GridCell.Tab.0.bottom/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618132885" />
@@ -205,10 +202,10 @@
     <state width="1234" height="344" key="GridCell.Tab.0.bottom/67.27.1213.693@67.27.1213.693" timestamp="1582613468083" />
     <state width="1253" height="326" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582913819680" />
     <state width="1167" height="329" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579776066798" />
-    <state width="1400" height="244" key="GridCell.Tab.0.center" timestamp="1584358576522">
+    <state width="1400" height="244" key="GridCell.Tab.0.center" timestamp="1584433027297">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584358576522" />
+    <state width="1400" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584433027297" />
     <state width="1400" height="205" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584090651949" />
     <state width="1400" height="255" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1584343431590" />
     <state width="1167" height="299" key="GridCell.Tab.0.center/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618132884" />
@@ -216,10 +213,10 @@
     <state width="1234" height="344" key="GridCell.Tab.0.center/67.27.1213.693@67.27.1213.693" timestamp="1582613468081" />
     <state width="1253" height="326" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582913819679" />
     <state width="1167" height="329" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579776066796" />
-    <state width="1400" height="244" key="GridCell.Tab.0.left" timestamp="1584358576522">
+    <state width="1400" height="244" key="GridCell.Tab.0.left" timestamp="1584433027297">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584358576522" />
+    <state width="1400" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584433027297" />
     <state width="1400" height="205" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584090651948" />
     <state width="1400" height="255" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1584343431589" />
     <state width="1167" height="299" key="GridCell.Tab.0.left/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618132884" />
@@ -227,10 +224,10 @@
     <state width="1234" height="344" key="GridCell.Tab.0.left/67.27.1213.693@67.27.1213.693" timestamp="1582613468080" />
     <state width="1253" height="326" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582913819679" />
     <state width="1167" height="329" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579776066796" />
-    <state width="1400" height="244" key="GridCell.Tab.0.right" timestamp="1584358576523">
+    <state width="1400" height="244" key="GridCell.Tab.0.right" timestamp="1584433027299">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584358576523" />
+    <state width="1400" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584433027299" />
     <state width="1400" height="205" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584090651949" />
     <state width="1400" height="255" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1584343431590" />
     <state width="1167" height="299" key="GridCell.Tab.0.right/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582618132884" />

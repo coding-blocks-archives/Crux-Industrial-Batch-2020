@@ -25,11 +25,11 @@ public class BalancedBST {
 
         node.height= Math.max(height(node.left),height(node.right))+1;
 
-        node=balancefactor(node);
+        node=balancing(node);
         return node;
     }
 
-    private Node balancefactor(Node node) {
+    private Node balancing(Node node) {
 
         if(height(node.left)-height(node.right)>1){
 

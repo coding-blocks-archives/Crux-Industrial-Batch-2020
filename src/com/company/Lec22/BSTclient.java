@@ -7,14 +7,16 @@ public class BSTclient {
 
 
        BalancedBST tree = new BalancedBST();
+       BSTwithGenerics<String> bst = new BSTwithGenerics<>();
 
-        tree.insert(1);
-        tree.insert(4);
-        tree.insert(3);
+        bst.insert("abc");
+        bst.insert("abe");
+        bst.insert("aaa");
+        bst.insert("abz");
 
-        tree.preorder();
-
-        System.out.println(tree.isbalanced());
+//        tree.preorder();
+//
+//        System.out.println(tree.isbalanced());
 //        tree.insert(4);
 //        tree.insert(5);
 
@@ -27,7 +29,7 @@ public class BSTclient {
 //        int ar[]={1,2,3,4,5,6,7};
 //        tree.makefromsorted(ar,0,ar.length-1);
 //
-//        tree.preorder();
+        bst.preorder();
 //
 //        tree.levelorder();
 

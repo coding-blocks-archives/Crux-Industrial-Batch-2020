@@ -149,7 +149,6 @@ public class BinarySearchTree {
             System.out.println(node.value);
         }
 
-
         if(node.value>k1){
            inrange(node.left,k1,k2);
         }
@@ -187,6 +186,8 @@ public class BinarySearchTree {
             Node temp = queue.remove();
             System.out.println(temp.value);
 
+
+
             if(temp.left!=null){
                 queue.add(temp.left);
             }
@@ -194,6 +195,8 @@ public class BinarySearchTree {
             if(temp.right!=null){
                 queue.add(temp.right);
             }
+
+
         }
     }
 

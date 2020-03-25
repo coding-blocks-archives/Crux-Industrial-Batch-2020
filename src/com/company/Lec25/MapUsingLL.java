@@ -5,8 +5,6 @@ import java.util.LinkedList;
 
 public class MapUsingLL {
 
-
-
     LinkedList<Entity> entities = new LinkedList<>();
 
     public void put(String key, String value){

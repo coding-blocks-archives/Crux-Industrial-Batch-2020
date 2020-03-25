@@ -5,6 +5,9 @@ public class MapClient {
 
     public static void main(String[] args) {
 
+
+        String s="orange";
+        System.out.println(s.hashCode());
         MapUsingLL map = new MapUsingLL();
 
         map.put("Saransh", "padhne laga he");

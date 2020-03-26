@@ -15,6 +15,8 @@ public class Hashmapseg {
 
         System.out.println(map);
 
+        System.out.println(map.size());
+
         for (String string: map.keySet()) {
             System.out.println(string);
         }

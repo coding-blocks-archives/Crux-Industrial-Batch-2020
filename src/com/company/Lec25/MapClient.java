@@ -8,16 +8,18 @@ public class MapClient {
 
         String s="orange";
         System.out.println(s.hashCode());
-        MapUsingLL map = new MapUsingLL();
+        MapUsingArray map = new MapUsingArray();
 
-        map.put("Saransh", "padhne laga he");
-        map.put("Vansh", "with his gf");
-        map.put("Ritik","Partying hard");
+//        map.put("apple", "padhne laga he");
+        map.put("apple", "with his gf");
+        map.put("orange","Partying hard");
 
-        System.out.println(map.get("Vansh"));
-        System.out.println(map.get("Saransh"));
-        System.out.println(map.remove("Saransh"));
-        System.out.println(map.get("Saransh"));
+//        System.out.println(map.get("apple"));
+        System.out.println(map.get("orange"));
+
+        System.out.println(map.get("apple"));
+//        map.remove("Saransh");
+//        System.out.println(map.get("Saransh"));
 
     }
 }

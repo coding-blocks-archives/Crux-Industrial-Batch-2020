@@ -28,11 +28,14 @@ public class Strings {
 //
 //        substrings("hello");
 
-        String s1= "hell";
+        Character ch ='A';
 
-//        System.out.println(s1.subSequence(2,4));
+        ch= Character.toLowerCase('A');
 
-//        pallin("abc");
+        System.out.println(ch);
+
+        //  System.out.println(s1.subSequence(2,4));
+        //        pallin("abc");
     }
 
     public static void occurences(String str,String pattern){

@@ -34,9 +34,9 @@ public class MapusingAL<K,V> {
             }
         }
 
-        if(((float)(size))/entities.size()>lf){
-         rehash();
-        }
+//        if(((float)(size))/entities.size()>lf){
+//         rehash();
+//        }
 
         list.add(new Entity(key, value));
         size++;

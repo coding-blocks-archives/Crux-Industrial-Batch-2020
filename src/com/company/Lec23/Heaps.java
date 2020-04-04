@@ -36,7 +36,6 @@ public class Heaps {
         int last=list.remove(list.size()-1);
 
         if(!list.isEmpty()){
-
             list.set(0,last);
             downheap(0);
         }

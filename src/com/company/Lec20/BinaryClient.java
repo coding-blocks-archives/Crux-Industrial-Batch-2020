@@ -2,6 +2,8 @@ package com.company.Lec20;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class BinaryClient {
@@ -16,7 +18,6 @@ public class BinaryClient {
         tree.insert(s);
         tree.insert(s);
         tree.insert(s);
-
         tree.postorder();
         System.out.println(tree.height());
     }

@@ -4,7 +4,7 @@ public class Client {
 
     public static void main(String[] args) {
 
-       PetrolEngine engine =new PetrolEngine();
+       Engine engine =new PetrolEngine();
 
 
         System.out.println(engine.speed);

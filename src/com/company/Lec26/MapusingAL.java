@@ -93,12 +93,12 @@ public class MapusingAL<K,V> {
         for (Entity entity:list) {
             if(entity.key.equals(key)){
                 target=entity;
+                size--;
                 break;
             }
         }
         V temp= target.value;
-        entities.remove(target);
-        size--;
+        list.remove(target);
         return temp;
     }
 

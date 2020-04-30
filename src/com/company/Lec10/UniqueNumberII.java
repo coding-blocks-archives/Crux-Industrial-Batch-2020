@@ -36,7 +36,7 @@ public class UniqueNumberII {
         int mask = (1 << pos);
 
         for(i = 0; i < arr.length; i++) {
-            if ((arr[i] & mask) == 1) {
+            if ((arr[i] & mask) >= 1) {
                 x = x ^ arr[i];
             }
         }
